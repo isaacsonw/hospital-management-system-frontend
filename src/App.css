@@ -1,0 +1,56 @@
+.title{
+  text-align: left ;
+    padding: 0 !important;
+}
+.ui.inverted.accordion .title:not(.ui) {
+    color: rgb(255, 255, 255);
+}
+.ui.inverted.accordion .title:not(.ui) {
+
+    border-bottom: 0.5px solid #c9c3c3;
+
+}
+.passport{
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.paneCapture{
+    width: 100% !important;
+}
+.ui.input > input::-moz-placeholder {
+    color: rgba(0, 0, 0, 0.87) !important;
+}
+.ui.input > input::-moz-placeholder {
+    color: rgba(29, 29, 29, 0.9)
+}
+.ui.form ::-moz-placeholder {
+    color: rgba(29, 29, 29, 0.9)
+}
+.ui.form ::-moz-placeholder {
+    color: rgba(29, 29, 29, 0.9)
+}
+.ui.form ::-moz-placeholder {
+    color: rgba(29, 29, 29, 0.9)
+}
+.fileUploader {
+    cursor: inherit;
+    display: block;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    right: 0;
+    height: 40px;
+    text-align: right;
+    top: 0;
+}
+.captureBtn:hover{
+    background: #fff !important;
+    border: 0.3px solid #efe8e8 !important;
+}
+.captureBtn:focus{
+    background: transparent !important;
+    border: 0.3px solid #efe8e8 !important;
+}
